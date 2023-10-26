@@ -2,7 +2,6 @@ package at.compaes.pft_backend.service;
 
 import at.compaes.pft_backend.model.User;
 import at.compaes.pft_backend.repository.UserRepository;
-import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
